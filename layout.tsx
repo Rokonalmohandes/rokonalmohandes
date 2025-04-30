@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   title: "ركن المهندس",
   description: "خدمات أكاديمية واحترافية للطلبة والأساتذة",
   icons: {
-    icon: "/favicon.ico", // Path relative to public folder
+    icon: "the final kofi.png", // Path relative to public folder
   },
 };
 
